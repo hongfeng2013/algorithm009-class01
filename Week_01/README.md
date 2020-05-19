@@ -1,7 +1,7 @@
-#学习笔记
+# 学习笔记
 
 
-##11. 盛最多水的容器:
+## 11. 盛最多水的容器:
 
     https://leetcode-cn.com/problems/container-with-most-water/
     
@@ -21,7 +21,7 @@
     f(3）= f(1) + f(2)
     f(n) = f(n-2) + f(n-1)
     
-##283: 移动零:
+## 283: 移动零:
     
     https://leetcode-cn.com/problems/move-zeroes/
     
