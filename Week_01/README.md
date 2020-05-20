@@ -35,3 +35,9 @@
     
     2. 方法二，使用str()和int()，数字和字符串变换。
     
+## 88. 合并两个有序数组:
+
+    https://leetcode-cn.com/problems/merge-sorted-array/
+    
+    使用2个下标，比较2个list元素大小，
+    
