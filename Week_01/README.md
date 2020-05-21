@@ -47,3 +47,10 @@
     
     使用字典，判断差是否在字典中.
     
+## 84. 柱状图中最大的矩形
+
+    https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+    
+    1. 方法一： 使用暴力法
+    2. 方法二： 使用stack
+    
