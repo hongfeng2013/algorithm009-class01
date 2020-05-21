@@ -41,3 +41,9 @@
     
     使用2个下标，比较2个list元素大小，
     
+## 1. 两数之和
+    
+    https://leetcode-cn.com/problems/two-sum/
+    
+    使用字典，判断差是否在字典中.
+    
