@@ -66,3 +66,13 @@
     
     使用栈，遇到左边的括号压栈，其他弹栈
     
+## 42. 接雨水
+
+    https://leetcode-cn.com/problems/trapping-rain-water/
+    
+    1. 方法一： 使用暴力法
+    2. 方法二： 使用双指针
+    3. 方法三： 使用Stack
+    
+    
+    
