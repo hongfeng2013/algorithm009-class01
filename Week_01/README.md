@@ -60,3 +60,9 @@
     
     使用辅助栈
     
+## 20. 有效的括号
+
+    https://leetcode-cn.com/problems/valid-parentheses/
+    
+    使用栈，遇到左边的括号压栈，其他弹栈
+    
