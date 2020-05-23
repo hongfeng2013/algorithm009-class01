@@ -87,5 +87,11 @@
     1. 方法一： 使用暴力法
     2. 方法二： 使用Python切片
     
+## 21. 合并两个有序链表
+
+    https://leetcode-cn.com/problems/merge-two-sorted-lists/
+    
+    使用一个新链表，小的往新链表加，最后非空的l1或者l2加到最后
+    
     
     
