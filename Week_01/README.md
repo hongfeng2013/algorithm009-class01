@@ -80,5 +80,12 @@
     
     循环遍历比较
     
+## 189. 旋转数组
+
+    https://leetcode-cn.com/problems/rotate-array/
+    
+    1. 方法一： 使用暴力法
+    2. 方法二： 使用Python切片
+    
     
     
