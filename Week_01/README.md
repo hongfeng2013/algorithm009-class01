@@ -74,5 +74,11 @@
     2. 方法二： 使用双指针
     3. 方法三： 使用Stack
     
+## 26. 删除排序数组中的重复项
+
+    https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+    
+    循环遍历比较
+    
     
     
