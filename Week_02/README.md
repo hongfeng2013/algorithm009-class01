@@ -49,3 +49,9 @@
     
     方法：循环除以2/3/5，最后如果是1，就是丑数
     
+## 347. 前 K 个高频元素
+
+    https://leetcode-cn.com/problems/top-k-frequent-elements/
+    
+    使用小顶堆。
+    
