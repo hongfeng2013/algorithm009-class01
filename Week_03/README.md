@@ -19,3 +19,10 @@
     
     1. 采用bfs的方法.
     2. 采用dft的方法.
+    
+## 236. 二叉树的最近公共祖先:
+
+    https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
+    
+    采用递归的方法
+
