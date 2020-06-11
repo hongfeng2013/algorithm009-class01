@@ -18,3 +18,10 @@
     https://leetcode-cn.com/problems/lemonade-change/description/
     
     使用贪心算法
+    
+## 455. 分发饼干:
+
+    https://leetcode-cn.com/problems/assign-cookies/description/
+    
+    方法一，排序比较
+    方法二：小顶堆
