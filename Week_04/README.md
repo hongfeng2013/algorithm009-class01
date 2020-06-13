@@ -55,3 +55,9 @@
     https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
     
     2分法
+    
+## 69. x 的平方根:
+
+    https://leetcode-cn.com/problems/sqrtx/
+    
+    2分法
