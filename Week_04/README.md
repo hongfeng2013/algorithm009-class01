@@ -61,3 +61,9 @@
     https://leetcode-cn.com/problems/sqrtx/
     
     2分法
+    
+## 367. 有效的完全平方数:
+    
+    https://leetcode-cn.com/problems/valid-perfect-square/
+    
+    2分法
