@@ -20,3 +20,15 @@
     
     使用dp的方法，
     dp[0][x]=0, dp[y][0]=0, 结果为dp[m][n]
+    
+## 70. 爬楼梯:
+
+    https://leetcode-cn.com/problems/climbing-stairs/description/
+    
+    使用dp的方法，
+    
+## 120. 三角形最小路径和:
+
+    https://leetcode-cn.com/problems/triangle/
+    
+    使用dp的方法，自底向上
