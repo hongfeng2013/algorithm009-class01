@@ -25,4 +25,10 @@
     https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
     
     采用递归的方法
+    
+## 235. 二叉搜索树的最近公共祖先:
+
+    https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+    
+    采用递归的方法
 
