@@ -14,3 +14,8 @@
 
     https://leetcode-cn.com/problems/friend-circles/
     dfs
+    
+## 200. 岛屿数量:
+
+    https://leetcode-cn.com/problems/number-of-islands/
+    dfs
