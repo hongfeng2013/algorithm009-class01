@@ -28,3 +28,8 @@
 ## 36. 有效的数独
 
     https://leetcode-cn.com/problems/valid-sudoku/
+    
+## 22. 括号生成:
+
+    https://leetcode-cn.com/problems/generate-parentheses/
+    回溯
