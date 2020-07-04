@@ -24,3 +24,7 @@
 
     https://leetcode-cn.com/problems/surrounded-regions/
     dfs
+    
+## 36. 有效的数独
+
+    https://leetcode-cn.com/problems/valid-sudoku/
